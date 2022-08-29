@@ -31,40 +31,45 @@
       "element": "earth"
     },
     {
-      "id": "73cb17fd-e7b2-4f07-a10d-23c300bf61ac",
-      "name": "saff",
-      "description": "aff",
+      "id": "4ecbd21d-151b-493d-a824-344d53be5f6e",
+      "name": "wafsa",
+      "description": "afasf",
       "element": "earth"
     },
     {
-      "id": "7f9a29ba-3bac-4d66-9564-c5f46a16c63c",
-      "name": "dsfzdsagd",
-      "description": "dsagasgd",
-      "element": "water"
+      "id": "335bc0e7-052d-456f-8b49-9a1cc442aec4",
+      "name": "fwqfwq",
+      "description": "fwfqwfq",
+      "element": "fire"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
